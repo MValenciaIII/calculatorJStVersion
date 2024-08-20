@@ -1,0 +1,35 @@
+.normalButton button {
+    background-color: #6b696b;
+    border: none;
+    padding: 5px 12px;
+    box-shadow: 1px 1px 0px 7px rgba(92, 92, 92, 1);
+    color:ghostwhite;
+}
+
+.clearButton button {
+    background-color: rgb(248, 37, 37);
+    border: none;
+    padding: 5px 40px;
+    box-shadow: 2px 1px 0px 7px rgb(197, 30, 30);
+    color: ghostwhite;
+}
+
+.addButton button {
+    background-color: #6b696b;
+    border: none;
+    padding: 34.5px 10px;
+    box-shadow: 1px 1px 0px 7px rgba(92, 92, 92, 1);
+    color: ghostwhite;
+}
+
+.zeroButton button {
+    background-color: #6b696b;
+    border: none;
+    padding: 5px 40px;
+    box-shadow: 2px 1px 0px 7px rgba(92, 92, 92, 1);
+    color: ghostwhite;
+}
+
+.nums {
+    margin: 25px 0px;
+}
